@@ -9,7 +9,7 @@ yeh batati hain ke hamare code ma banaye huaa variable function and object kha k
 
 ### Global scope:
 
-vah variable function va objrct jo ki top level par likhe gaye hain. mtlb ke koi function if else ke ander nahi hain to unhae khai par bhi exice keya ja skta hain.is scope ko Globla scope khate hain.
+vah variable function va objrct jo ki top level par likhe gaye hain. mtlb ke koi function if else ke ander nahi hain to unhae khai par bhi exice keya ja skta hain.is scope ko Global scope khate hain.
 
 - for example:
 
